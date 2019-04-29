@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 use scholarly module
+TODO: Use graphx
 """
 
 import os
